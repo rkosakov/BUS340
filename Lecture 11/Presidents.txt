@@ -1,0 +1,5 @@
+Bill Clinton
+George Bush
+Barak Obama
+
+Python is interpreted
